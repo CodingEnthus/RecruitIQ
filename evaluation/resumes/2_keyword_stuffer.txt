@@ -1,0 +1,18 @@
+Jordan Lee
+Email: jordan.lee@example.com | Phone: +1-555-0841
+
+Summary:
+Python Python Python FastAPI FastAPI PostgreSQL REST APIs RAG Vector Databases Docker AWS Kubernetes LLMs Machine Learning AI.
+
+Skills:
+Python, FastAPI, PostgreSQL, REST APIs, RAG, Vector Databases, Docker, AWS, Kubernetes, LLMs, AI, ML, Data Science
+
+Experience:
+IT Support Specialist | Tech Help Desk (2023 - Present)
+- Assisted internal users with password resets and hardware troubleshooting. Mentioned Python and FastAPI in team meeting.
+
+Education:
+Associate Degree in General Studies | Local Community College (2022)
+
+Projects:
+- Calculator App: Simple Python calculator script printed to console.

@@ -1,0 +1,16 @@
+Elena Rostova
+Email: elena.rostova@example.com | Phone: +1-555-0612
+
+Summary:
+Frontend Specialist with 3 years of experience in JavaScript, React, Next.js, and CSS styling. Interested in backend.
+
+Skills:
+React, Next.js, JavaScript, HTML5, CSS3, Tailwind CSS, Redux
+
+Experience:
+Frontend Developer | WebCorp (2021 - Present)
+- Built interactive user interfaces in React and Next.js.
+- Styled modern responsive landing pages with Tailwind CSS.
+
+Education:
+BS in Computer Science | City University (2021)

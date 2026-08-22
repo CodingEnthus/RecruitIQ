@@ -1,0 +1,15 @@
+David Smith
+Email: david.smith@example.com | Phone: +1-555-0923
+
+Summary:
+Graphic Designer and Creative Specialist with 5 years of experience in Adobe Photoshop, Illustrator, and corporate branding.
+
+Skills:
+Photoshop, Illustrator, InDesign, Graphic Design, Typography, UI/UX Wireframing
+
+Experience:
+Senior Graphic Designer | Creative Agency (2019 - Present)
+- Designed marketing banners, brand assets, and client brochures.
+
+Education:
+Bachelor of Arts in Fine Arts | Design Academy (2019)

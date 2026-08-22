@@ -1,0 +1,26 @@
+Job Title: Senior AI Backend Engineer
+
+Role Overview:
+We are looking for a Senior AI Backend Engineer to build high-performance REST APIs, vector search pipelines, and RAG architectures.
+
+Required Skills (Must Have):
+- Python
+- FastAPI
+- PostgreSQL
+- REST APIs
+- RAG / Vector Databases
+
+Nice to Have (Preferred):
+- Docker
+- AWS
+- Kubernetes
+- LLMs
+
+Experience Requirements:
+- 3+ years of backend development experience building scalable web services.
+
+Responsibilities:
+- Build and optimize asynchronous FastAPI microservices.
+- Design database schemas and write efficient SQL queries in PostgreSQL.
+- Implement hybrid retrieval search algorithms (Dense + BM25) and Qdrant integration.
+- Deploy machine learning applications in cloud environments.

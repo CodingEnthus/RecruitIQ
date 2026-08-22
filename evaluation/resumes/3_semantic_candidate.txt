@@ -1,0 +1,20 @@
+Samantha Chen
+Email: samantha.chen@example.com | Phone: +1-555-0372
+
+Summary:
+Full Stack Software Developer with 3.5 years of experience building modern web application services, relational data storage systems, and neural network search integrations.
+
+Skills:
+Python3, Fast API, Postgres, RESTful API, Information Retrieval, Vector Search, Containerization, Cloud Services
+
+Experience:
+Software Engineer | Neural Systems Inc. (2021 - Present)
+- Developed high throughput web APIs in Python using Fast API framework.
+- Maintained relational database tables in Postgres database clusters.
+- Integrated semantic search capabilities using neural embedding models and dense retrieval.
+
+Education:
+BS in Software Engineering | UC Berkeley (2021)
+
+Projects:
+- Neural Document Search Engine: High performance vector search platform.
