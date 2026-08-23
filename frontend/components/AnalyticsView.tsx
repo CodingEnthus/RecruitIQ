@@ -39,25 +39,27 @@ export const AnalyticsView: React.FC = () => {
       <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
         <div className="p-5 rounded-2xl glass-card border border-slate-800 space-y-1">
           <p className="text-xs text-slate-400">Total Candidates Evaluated</p>
-          <p className="text-2xl font-bold font-mono text-slate-100">{analytics?.total_candidates || 0}</p>
+          <p className="text-2xl font-bold font-mono text-slate-100">{analytics?.total_candidates ?? 0}</p>
         </div>
 
         <div className="p-5 rounded-2xl glass-card border border-slate-800 space-y-1">
           <p className="text-xs text-slate-400">Average Candidate Match Score</p>
-          <p className="text-2xl font-bold font-mono text-blue-400">{analytics?.average_match_score || 84.5}%</p>
+          <p className="text-2xl font-bold font-mono text-blue-400">
+            {analytics?.average_match_score !== undefined ? `${analytics.average_match_score}%` : "0.0%"}
+          </p>
         </div>
 
         <div className="p-5 rounded-2xl glass-card border border-slate-800 space-y-1">
           <p className="text-xs text-slate-400">Strong Matches (&ge; 85%)</p>
           <p className="text-2xl font-bold font-mono text-emerald-400">
-            {analytics?.score_distribution?.find((d: any) => d.range === "90-100%")?.count || 2}
+            {analytics?.strong_matches ?? 0}
           </p>
         </div>
 
         <div className="p-5 rounded-2xl glass-card border border-slate-800 space-y-1">
           <p className="text-xs text-slate-400">Most Missing Skill Gap</p>
           <p className="text-2xl font-bold font-mono text-amber-400">
-            {analytics?.most_missing_skills?.[0]?.skill || "Kubernetes"}
+            {analytics?.most_missing_skills?.[0]?.skill ?? "No missing skill data"}
           </p>
         </div>
       </div>
