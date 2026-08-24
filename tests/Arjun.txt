@@ -1,0 +1,55 @@
+ARJUN SHARMA
+
+Software Engineer
+
+SUMMARY
+Computer Science graduate with strong experience in backend development,
+REST API development, databases and software engineering. Experienced in
+Python, Java and building production-style backend applications.
+
+TECHNICAL SKILLS
+
+Programming:
+Python, Java, SQL
+
+Backend:
+FastAPI, Spring Boot, REST APIs
+
+Databases:
+PostgreSQL, MySQL
+
+Tools:
+Git, GitHub, Docker
+
+Engineering:
+Debugging, Code Review, CI/CD, Agile
+
+EXPERIENCE
+
+Software Engineering Intern
+TechNova Solutions
+June 2025 – May 2026
+
+- Developed REST APIs using Python and FastAPI.
+- Built backend services connected to PostgreSQL.
+- Implemented authentication and API validation.
+- Debugged production issues and optimized SQL queries.
+- Used Git and GitHub for collaborative development.
+- Participated in code reviews and CI/CD workflows.
+
+PROJECTS
+
+E-Commerce Backend
+- Developed a RESTful backend using FastAPI and PostgreSQL.
+- Implemented product, order and authentication APIs.
+- Containerized the application using Docker.
+
+Student Management System
+- Built a Java Spring Boot backend.
+- Designed REST APIs and MySQL database integration.
+- Implemented CRUD operations and validation.
+
+EDUCATION
+
+B.Tech in Computer Science and Engineering
+2027

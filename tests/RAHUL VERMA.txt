@@ -1,0 +1,33 @@
+RAHUL VERMA
+
+Software Engineer
+
+SKILLS
+
+Python, JavaScript, SQL, GitHub, REST APIs, React, Docker,
+PostgreSQL, Debugging, TypeScript, Node.js
+
+SUMMARY
+
+Software engineer with knowledge of Python, JavaScript, SQL,
+GitHub, REST APIs and modern web development.
+
+EDUCATION
+
+B.Tech Computer Science
+2027
+
+PROJECTS
+
+Portfolio Website
+- Built a personal portfolio website using HTML, CSS and JavaScript.
+
+Calculator
+- Built a calculator using JavaScript.
+
+Weather App
+- Built a weather application using JavaScript and an API.
+
+EXPERIENCE
+
+No professional software engineering experience.

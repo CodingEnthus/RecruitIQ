@@ -1,0 +1,49 @@
+NEHA SHARMA
+
+Software Engineer
+
+SKILLS
+
+Python, Java, SQL, Git, REST APIs, FastAPI, Spring Boot,
+PostgreSQL, Docker, Debugging, CI/CD
+
+SUMMARY
+
+Computer Science student with strong hands-on software development
+experience through backend and full-stack projects. Experienced in
+building REST APIs, database-driven applications, debugging,
+Git-based development and automated testing.
+
+EDUCATION
+
+B.Tech in Computer Science and Engineering
+2027
+
+EXPERIENCE
+
+No professional software engineering experience.
+
+PROJECTS
+
+1. E-Commerce Backend Platform
+- Developed a production-style REST API using Python and FastAPI.
+- Designed PostgreSQL database schemas and implemented CRUD operations.
+- Added JWT-based authentication and request validation.
+- Implemented error handling and logging for API failures.
+- Wrote unit tests for API endpoints.
+- Used Git and GitHub for version control.
+- Dockerized the application for local deployment.
+
+2. Student Management System
+- Built a Java Spring Boot backend for managing student records.
+- Designed REST APIs for student and course management.
+- Integrated MySQL database using JPA/Hibernate.
+- Implemented validation, exception handling and CRUD operations.
+- Used Git for version control and followed a feature-branch workflow.
+
+3. Task Management API
+- Built a Python REST API using FastAPI and PostgreSQL.
+- Implemented authentication, authorization and API validation.
+- Added automated tests and debugging/logging mechanisms.
+- Optimized SQL queries for frequently accessed records.
+- Created Docker configuration for application deployment.
